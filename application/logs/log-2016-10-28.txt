@@ -1,0 +1,257 @@
+DEBUG - 2016-10-28 20:22:06 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:22:06 --> No URI present. Default controller set.
+DEBUG - 2016-10-28 20:22:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:22:07 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:22:07 --> Total execution time: 0.8360
+DEBUG - 2016-10-28 20:22:12 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:22:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:22:12 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:22:13 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:22:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:22:13 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:22:13 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 20:22:14 --> Total execution time: 0.5440
+DEBUG - 2016-10-28 20:22:21 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:22:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:22:21 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:22:21 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 20:22:21 --> Severity: Notice --> Undefined index: id_animal_tipo C:\xampp\htdocs\tesis2\application\helpers\main_helper.php 1188
+ERROR - 2016-10-28 20:22:21 --> Severity: Notice --> Undefined property: stdClass::$id_animal_tipo C:\xampp\htdocs\tesis2\application\helpers\main_helper.php 1107
+DEBUG - 2016-10-28 20:22:21 --> Total execution time: 0.5840
+DEBUG - 2016-10-28 20:29:52 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:29:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:29:52 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:29:52 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 20:29:52 --> Severity: Notice --> Undefined index: id_animal_tipo C:\xampp\htdocs\tesis2\application\helpers\main_helper.php 1188
+ERROR - 2016-10-28 20:29:52 --> Severity: Notice --> Undefined property: stdClass::$id_animal_tipo C:\xampp\htdocs\tesis2\application\helpers\main_helper.php 1107
+DEBUG - 2016-10-28 20:29:52 --> Total execution time: 0.1860
+DEBUG - 2016-10-28 20:30:20 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:30:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:30:20 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:30:20 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 20:30:20 --> Severity: Notice --> Undefined index: id_animal_tipo C:\xampp\htdocs\tesis2\application\helpers\main_helper.php 1188
+ERROR - 2016-10-28 20:30:20 --> Severity: Notice --> Undefined property: stdClass::$id_animal_tipo C:\xampp\htdocs\tesis2\application\helpers\main_helper.php 1107
+DEBUG - 2016-10-28 20:30:20 --> Total execution time: 0.2150
+DEBUG - 2016-10-28 20:31:04 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:31:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:31:04 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:31:04 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 20:31:04 --> Total execution time: 0.1580
+DEBUG - 2016-10-28 20:33:58 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:33:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:33:58 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:33:58 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 20:33:58 --> Could not find the language line "tarjeta"
+ERROR - 2016-10-28 20:33:58 --> Could not find the language line "tarjeta"
+DEBUG - 2016-10-28 20:33:58 --> Total execution time: 0.1870
+DEBUG - 2016-10-28 20:34:45 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:34:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:34:45 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:34:45 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 20:34:45 --> Total execution time: 0.1800
+DEBUG - 2016-10-28 20:35:29 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:35:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:35:29 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:35:29 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 20:35:29 --> Total execution time: 0.2040
+DEBUG - 2016-10-28 20:36:32 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:36:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:36:32 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:36:32 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 20:36:32 --> Total execution time: 0.2340
+DEBUG - 2016-10-28 20:43:45 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:43:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:43:45 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:43:45 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 20:43:45 --> Total execution time: 0.2050
+DEBUG - 2016-10-28 20:43:47 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:43:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:43:47 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:43:48 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 20:43:48 --> Total execution time: 1.2301
+DEBUG - 2016-10-28 20:44:07 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:44:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:44:07 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:44:08 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 20:44:08 --> Total execution time: 1.1201
+DEBUG - 2016-10-28 20:44:09 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 20:44:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 20:44:09 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 20:44:09 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 20:44:09 --> Total execution time: 0.1870
+DEBUG - 2016-10-28 21:16:55 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:16:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:16:55 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:16:55 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:16:55 --> Total execution time: 0.3590
+DEBUG - 2016-10-28 21:16:58 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:16:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:16:58 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:16:58 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:16:58 --> Could not find the language line "rol"
+DEBUG - 2016-10-28 21:16:58 --> Total execution time: 0.1770
+DEBUG - 2016-10-28 21:17:16 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:17:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:17:16 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:17:16 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:17:16 --> Total execution time: 0.3990
+DEBUG - 2016-10-28 21:17:19 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:17:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:17:19 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:17:19 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:17:19 --> Could not find the language line "rol"
+DEBUG - 2016-10-28 21:17:19 --> Total execution time: 0.1760
+DEBUG - 2016-10-28 21:17:33 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:17:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:17:34 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:17:34 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:17:34 --> Total execution time: 0.4080
+DEBUG - 2016-10-28 21:17:38 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:17:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:17:38 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:17:38 --> Total execution time: 0.1350
+DEBUG - 2016-10-28 21:17:39 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:17:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:17:39 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:17:40 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:17:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:17:40 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:17:40 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:17:40 --> Total execution time: 0.2010
+DEBUG - 2016-10-28 21:17:43 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:17:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:17:43 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:17:43 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:17:44 --> Severity: error --> Exception: C:\xampp\htdocs\tesis2\application\models/M_tambos_compuertas.php exists, but doesn't declare class M_tambos_compuertas C:\xampp\htdocs\tesis2\system\core\Loader.php 336
+DEBUG - 2016-10-28 21:18:09 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:18:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:18:09 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:18:09 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:18:09 --> Query error: Unknown column 'tambos_compuertas.compuerta' in 'field list' - Invalid query: SELECT proveedores.proveedor, tambos_compuertas.compuerta, tambos_lectores.* FROM tambos_lectores  LEFT JOIN proveedores ON(tambos_lectores.id_proveedor = proveedores.id_proveedor) LEFT JOIN tambos_compuertas ON(tambos_lectores.id_compuerta = tambos_compuertas.id_compuerta) WHERE tambos_lectores.eliminado = 0 ORDER BY tambos_lectores.lector
+DEBUG - 2016-10-28 21:18:31 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:18:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:18:31 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:18:31 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:18:31 --> Query error: Unknown column 'tambos_lectores.id_compuerta' in 'on clause' - Invalid query: SELECT proveedores.proveedor, tambos_compuertas.compuerta, tambos_lectores.* FROM tambos_lectores  LEFT JOIN proveedores ON(tambos_lectores.id_proveedor = proveedores.id_proveedor) LEFT JOIN tambos_compuertas ON(tambos_lectores.id_compuerta = tambos_compuertas.id_compuerta) WHERE tambos_lectores.eliminado = 0 ORDER BY tambos_lectores.lector
+DEBUG - 2016-10-28 21:18:50 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:18:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:18:50 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:18:50 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:18:50 --> Query error: Unknown column 'tambos_lectores.id_compuerta' in 'on clause' - Invalid query: SELECT proveedores.proveedor, tambos_compuertas.compuerta, tambos_lectores.* FROM tambos_lectores  LEFT JOIN proveedores ON(tambos_lectores.id_proveedor = proveedores.id_proveedor) LEFT JOIN tambos_compuertas ON(tambos_lectores.id_compuerta = tambos_compuertas.id_compuerta) WHERE tambos_lectores.eliminado = 0 ORDER BY tambos_lectores.lector
+DEBUG - 2016-10-28 21:19:28 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:19:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:19:28 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:19:28 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:19:28 --> Query error: Unknown column 'tambos_lectores.id_compuerta' in 'on clause' - Invalid query: SELECT proveedores.proveedor, tambos_compuertas.compuerta, tambos_lectores.* FROM tambos_lectores  LEFT JOIN proveedores ON(tambos_lectores.id_proveedor = proveedores.id_proveedor) LEFT JOIN tambos_compuertas ON(tambos_lectores.id_compuerta = tambos_compuertas.id_compuerta) WHERE tambos_lectores.eliminado = 0 ORDER BY tambos_lectores.lector
+DEBUG - 2016-10-28 21:19:41 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:19:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:19:41 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:19:41 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:19:41 --> Could not find the language line "lectores"
+ERROR - 2016-10-28 21:19:41 --> Could not find the language line "compuerta"
+DEBUG - 2016-10-28 21:19:41 --> Total execution time: 0.2640
+DEBUG - 2016-10-28 21:19:47 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:19:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:19:47 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:19:47 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:19:47 --> Query error: Table 'tesis.tambos_compuestas' doesn't exist - Invalid query: SHOW COLUMNS FROM `tambos_compuestas`
+DEBUG - 2016-10-28 21:20:00 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:20:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:20:00 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:20:00 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:20:00 --> Could not find the language line "compuertas"
+DEBUG - 2016-10-28 21:20:00 --> Total execution time: 0.1760
+DEBUG - 2016-10-28 21:20:05 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:20:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:20:05 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:20:05 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:20:05 --> Could not find the language line "compuerta"
+ERROR - 2016-10-28 21:20:05 --> Could not find the language line "compuerta"
+DEBUG - 2016-10-28 21:20:05 --> Total execution time: 0.1830
+DEBUG - 2016-10-28 21:20:51 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:20:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:20:51 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:20:51 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:20:51 --> Total execution time: 0.1590
+DEBUG - 2016-10-28 21:21:18 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:21:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:21:18 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:21:18 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:21:18 --> Could not find the language line "compuertas"
+DEBUG - 2016-10-28 21:21:18 --> Total execution time: 0.2500
+DEBUG - 2016-10-28 21:21:35 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:21:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:21:35 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:21:35 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:21:35 --> Total execution time: 0.4140
+DEBUG - 2016-10-28 21:21:39 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:21:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:21:39 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:21:39 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:21:39 --> Total execution time: 0.1890
+DEBUG - 2016-10-28 21:21:44 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:21:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:21:44 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:21:44 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:21:45 --> Total execution time: 0.4380
+DEBUG - 2016-10-28 21:21:54 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:21:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:21:54 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:21:54 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:21:54 --> Could not find the language line "lectores"
+DEBUG - 2016-10-28 21:21:54 --> Total execution time: 0.1740
+DEBUG - 2016-10-28 21:21:55 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:21:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:21:55 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:21:55 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:21:55 --> Could not find the language line "lector"
+ERROR - 2016-10-28 21:21:55 --> Could not find the language line "lector"
+ERROR - 2016-10-28 21:21:55 --> Could not find the language line "in_out"
+DEBUG - 2016-10-28 21:21:55 --> Total execution time: 0.2420
+DEBUG - 2016-10-28 21:22:27 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:22:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:22:27 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:22:27 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:22:27 --> Could not find the language line "in_out"
+DEBUG - 2016-10-28 21:22:27 --> Total execution time: 0.1680
+DEBUG - 2016-10-28 21:22:53 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:22:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:22:53 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:22:53 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:22:54 --> Total execution time: 0.2240
+DEBUG - 2016-10-28 21:23:22 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:23:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:23:22 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:23:22 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2016-10-28 21:23:23 --> Could not find the language line "lectores"
+DEBUG - 2016-10-28 21:23:23 --> Total execution time: 0.2690
+DEBUG - 2016-10-28 21:23:37 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:23:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:23:37 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:23:38 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:23:38 --> Total execution time: 0.3480
+DEBUG - 2016-10-28 21:23:40 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:23:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:23:40 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:23:40 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:23:40 --> Total execution time: 0.3690
+DEBUG - 2016-10-28 21:23:47 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:23:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:23:47 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:23:47 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:23:47 --> Total execution time: 0.3950
+DEBUG - 2016-10-28 21:23:49 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:23:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:23:49 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:23:49 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:23:49 --> Total execution time: 0.1560
+DEBUG - 2016-10-28 21:23:56 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:23:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:23:56 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:23:57 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:23:57 --> Total execution time: 0.3470
+DEBUG - 2016-10-28 21:24:23 --> UTF-8 Support Enabled
+DEBUG - 2016-10-28 21:24:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-10-28 21:24:23 --> Config file loaded: C:\xampp\htdocs\tesis2\application\config/my_config.php
+DEBUG - 2016-10-28 21:24:23 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2016-10-28 21:24:23 --> Total execution time: 0.4170
