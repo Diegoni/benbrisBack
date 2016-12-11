@@ -6,6 +6,8 @@
 $lang['agregar']                    = "Agregar";
 $lang['agregar_per']                = "Agregar y permanecer";
 $lang['actualizar']                    = "Actualizar";
+$lang['alumno']                    = "Alumno";
+$lang['alumnos']                    = "Alumnos";
 
 /*--------------------------------------------------------------------------------  
     B
@@ -20,6 +22,7 @@ $lang['curso']                    = "Curso";
 $lang['cursos']                   = "Crusos";
 $lang['categoria']                = "Categoria";
 $lang['contraseña']         = "Contraseña";
+$lang['codigo']         			= "Codigos";
 
 /*--------------------------------------------------------------------------------  
     D
