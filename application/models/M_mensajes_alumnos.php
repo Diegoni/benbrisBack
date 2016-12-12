@@ -39,6 +39,7 @@ class m_mensajes_alumnos extends MY_Model
     {
     	$sql = "
     	SELECT
+    		mensajes.id_mensaje,
     		mensajes.titulo,
     		mensajes.mensaje,
     		alumnos.alumno
