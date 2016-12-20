@@ -20,5 +20,34 @@ class m_cursos extends MY_Model
 			$relation		= $this->_relation
 		);
 	}
-} 
+	
+	
+/*--------------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------------  
+            
+       Comprueba si usuario y pass coinciden
+  
+----------------------------------------------------------------------------------- 
+---------------------------------------------------------------------------------*/ 
+		
+	
+	function getAlumnos($id)
+	{
+		$sql = 
+		"SELECT 
+			alumnos.id_alumno, 
+			alumnos.alumno 
+		FROM 
+			cursos_alumnos 
+		INNER JOIN 
+			alumnos ON(cursos_alumnos.id_alumno = alumnos.id_alumno)
+		WHERE
+			cursos_alumnos.id_curso = '$id'
+		ORDER BY
+			alumnos.alumno";
+		
+		return $this->getQuery($sql);
+	}
+	
+	} 
 ?>

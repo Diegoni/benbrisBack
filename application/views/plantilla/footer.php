@@ -14,7 +14,7 @@
 				<b><?php echo lang('version')?></b> 1.0.1
 			</div>
 			<strong>
-			    <a href="">XN Group </a>
+			    <a href="http://www.menbris.com.ar">Menbris</a>
             </strong>
 			
 		</footer>

@@ -18,11 +18,12 @@ $lang['alumnos']                    = "Alumnos";
     C
  --------------------------------------------------------------------------------*/ 
 
-$lang['curso']                    = "Curso";
-$lang['cursos']                   = "Crusos";
-$lang['categoria']                = "Categoria";
-$lang['contraseña']         = "Contraseña";
-$lang['codigo']         			= "Codigos";
+$lang['curso']                  = "Curso";
+$lang['cursos']                 = "Crusos";
+$lang['categoria']              = "Categoria";
+$lang['contraseña']         	= "Contraseña";
+$lang['codigo']         		= "Codigos";
+$lang['carga']         			= "Carga";
 
 /*--------------------------------------------------------------------------------  
     D

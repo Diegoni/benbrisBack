@@ -100,5 +100,49 @@ class Mensajes extends MY_Controller
 			}
     	}
 	}
+	
+
+/*--------------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------------  
+            
+       Ejemplo de abm
+  
+----------------------------------------------------------------------------------- 
+---------------------------------------------------------------------------------*/   
+    
+    
+    function setAlumnos()
+    {
+    	$id_curso = $this->input->post('id_curso');
+		$id_profesor = $this->input->post('id_profesor');
+				
+    	$registro = array(
+			'mensaje'		=> "",
+			'id_curso'		=> $id_curso,
+			'id_profesor'	=> $id_profesor
+		);
+		
+    	$id_mensaje = $this->model->insert($registro);
+		
+    	$alumnos = explode(",", $this->input->post('alumnos'));
+		
+		foreach ($alumnos as $alumno) 
+		{
+			if($alumno != 0)
+			{
+				$registro = array(
+					'id_alumno'		=> $alumno,
+					'id_mensaje'	=> $id_mensaje,
+				);
+				
+				$this->m_mensajes_alumnos->insert($registro);	
+			}
+		}
+		
+    	
+		echo "ok";
+				
+		
+	}
 }
 ?>
