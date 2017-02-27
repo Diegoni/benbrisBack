@@ -12,7 +12,8 @@ class Cursos extends MY_Controller
             $model      = $this->_model 
         );
         
-        $this->load->model($this->_model, 'model'); // Linea obligatoria  
+        $this->load->model($this->_model, 'model'); // Linea obligatoria 
+        $this->load->model('m_profesores');
     } 
     
     
@@ -26,9 +27,12 @@ class Cursos extends MY_Controller
     
     
     function abm($id = NULL)                              // Funcion para abm
-    {                           
+    {
+    	$db['profesores']    = $this->m_profesores->getRegistros(); // Carga para el select
+		                           
         $db['campos']   = array(
             array('curso',    '', 'required'), // cargar un input
+            array('select',   'id_profesor',  'profesor', $db['profesores']), // cargar un select
 		);
         
         $this->armarAbm($id, $db);                     // Envia todo a la plantilla de la pagina
@@ -79,5 +83,31 @@ class Cursos extends MY_Controller
 			}
     	}                                              
     }
+	
+
+/*--------------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------------  
+            
+       Guarda el mensaje
+  
+----------------------------------------------------------------------------------- 
+---------------------------------------------------------------------------------*/   
+    
+    
+    function guardarCurso()
+    {
+    	$curso = $this->input->post('curso');
+		$id_profesor = $this->input->post('id_profesor');
+				
+    	$registro = array(
+			'curso'		=> $curso,
+			'id_profesor'	=> $id_profesor
+		);
+		
+
+    	$id_curso = $this->model->insert($registro);
+    	
+		echo $id_curso;			
+	}
 }
 ?>

@@ -1,9 +1,9 @@
 <?php 
-class m_profesores extends MY_Model 
+class m_padres extends MY_Model 
 {		
-	protected $_tablename	= 'profesores';
-	protected $_id_table	= 'id_profesor';
-	protected $_order		= 'id_profesor';
+	protected $_tablename	= 'padres';
+	protected $_id_table	= 'id_padre';
+	protected $_order		= 'id_padre';
 	protected $_relation    = '';
 		
 	function __construct()
@@ -16,10 +16,11 @@ class m_profesores extends MY_Model
 		);
 	}
 	
+	
 	function login($user, $pass)
 	{
 		$sql = "
-		SELECT * FROM $this->_tablename WHERE profesor LIKE '".$user."' AND pass = '".$pass."'
+		SELECT * FROM $this->_tablename WHERE padre LIKE '".$user."' AND pass = '".$pass."'
 		";
 		
 		return $this->getQuery($sql);

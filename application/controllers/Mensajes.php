@@ -140,9 +140,34 @@ class Mensajes extends MY_Controller
 		}
 		
     	
-		echo "ok";
+		echo $id_mensaje;			
+	}
+	
+	
+/*--------------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------------  
+            
+       Guarda el mensaje
+  
+----------------------------------------------------------------------------------- 
+---------------------------------------------------------------------------------*/   
+    
+    
+    function guardarMensaje()
+    {
+    	$id_mensaje = $this->input->post('id_mensaje');
+		$titulo = $this->input->post('titulo');
+		$mensaje = $this->input->post('mensaje');
 				
+    	$registro = array(
+			'mensaje'		=> $mensaje,
+			'titulo'		=> $titulo,
+		);
 		
+
+    	$id_mensaje = $this->model->update($registro, $id_mensaje);
+    	
+		echo 'mensaje';			
 	}
 }
 ?>

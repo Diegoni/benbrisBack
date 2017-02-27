@@ -97,6 +97,7 @@ $lang['opciones']                   = "Opciones";
 $lang['profesor']                    = "Profesor";
 $lang['profesores']                  = "Profesores";
 $lang['permisos']                    = "Permisos";
+$lang['perfil']                    = "Perfil";
 
 /*--------------------------------------------------------------------------------  
     R

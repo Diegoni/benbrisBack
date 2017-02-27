@@ -4,8 +4,8 @@
  --------------------------------------------------------------------------------*/
  
 $cabeceras = array(
-    lang('curso'),
-    lang('profesor'),
+    lang('usuario'),
+    lang('perfil'),
     lang('opciones'),
 );
 
@@ -34,9 +34,9 @@ if($registros)
     foreach ($registros as $row) 
     {
         $registro = array(
-            $row->curso,
-            $row->profesor,
-            tableUpd($subjet, $row->id_curso),
+            $row->usuario,
+            $row->perfil,
+            tableUpd($subjet, $row->id_usuario),
         );
         
         $html .= setTableContent($registro);    
