@@ -1,0 +1,669 @@
+DEBUG - 2017-03-25 12:45:52 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 12:45:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 12:45:52 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 12:45:52 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 12:45:52 --> --------------------------- Login Usuario
+DEBUG - 2017-03-25 12:45:52 --> Perfil Padre
+DEBUG - 2017-03-25 12:45:52 --> No existe padre Diego
+DEBUG - 2017-03-25 12:45:52 --> Total execution time: 0.5240
+DEBUG - 2017-03-25 12:45:57 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 12:45:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 12:45:57 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 12:45:57 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 12:45:57 --> --------------------------- Login Usuario
+DEBUG - 2017-03-25 12:45:57 --> Perfil Padre
+DEBUG - 2017-03-25 12:45:57 --> Login padre Diego
+DEBUG - 2017-03-25 12:45:57 --> Total execution time: 0.0620
+DEBUG - 2017-03-25 12:46:22 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 12:46:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 12:46:22 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 12:46:22 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 12:46:22 --> --------------------------- Login Usuario
+DEBUG - 2017-03-25 12:46:22 --> Perfil 
+DEBUG - 2017-03-25 12:46:22 --> No existe profesor 
+DEBUG - 2017-03-25 12:46:22 --> Total execution time: 0.5790
+DEBUG - 2017-03-25 12:46:34 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 12:46:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 12:46:34 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 12:46:34 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 12:46:34 --> Total execution time: 0.8170
+DEBUG - 2017-03-25 12:46:40 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 12:46:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 12:46:40 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 12:46:40 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 12:46:40 --> Total execution time: 0.4520
+DEBUG - 2017-03-25 12:50:21 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 12:50:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 12:50:21 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 12:50:21 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 12:50:21 --> Total execution time: 0.1080
+DEBUG - 2017-03-25 12:51:29 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 12:51:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 12:51:29 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 12:51:29 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 12:51:29 --> Total execution time: 0.1640
+DEBUG - 2017-03-25 12:52:13 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 12:52:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 12:52:13 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 12:52:13 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 12:52:13 --> Total execution time: 0.1000
+DEBUG - 2017-03-25 13:03:10 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:03:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:03:10 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:03:10 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:03:10 --> Total execution time: 0.0990
+DEBUG - 2017-03-25 13:03:51 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:03:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:03:51 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:03:51 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:03:51 --> Total execution time: 0.0960
+DEBUG - 2017-03-25 13:04:59 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:04:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:04:59 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:04:59 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:04:59 --> Total execution time: 0.0910
+DEBUG - 2017-03-25 13:06:23 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:06:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:06:23 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:06:23 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:06:23 --> Total execution time: 0.0970
+DEBUG - 2017-03-25 13:06:30 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:06:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:06:30 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:06:30 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:06:30 --> Total execution time: 0.0980
+DEBUG - 2017-03-25 13:06:38 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:06:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:06:38 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:06:39 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:06:39 --> Total execution time: 0.0880
+DEBUG - 2017-03-25 13:06:50 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:06:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:06:50 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:06:50 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:06:50 --> Total execution time: 0.0920
+DEBUG - 2017-03-25 13:07:11 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:07:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:07:11 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:07:11 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:07:11 --> Total execution time: 0.0820
+DEBUG - 2017-03-25 13:07:46 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:07:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:07:46 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:07:46 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:07:46 --> Total execution time: 0.0990
+DEBUG - 2017-03-25 13:07:50 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:07:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:07:50 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:07:50 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:07:50 --> Total execution time: 0.0860
+DEBUG - 2017-03-25 13:08:13 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:08:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:08:13 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:08:13 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:08:13 --> Total execution time: 0.0860
+DEBUG - 2017-03-25 13:08:15 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:08:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:08:15 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:08:15 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:08:15 --> Total execution time: 0.0830
+DEBUG - 2017-03-25 13:08:58 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:08:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:08:58 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:08:58 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:08:58 --> Total execution time: 0.0690
+DEBUG - 2017-03-25 13:09:00 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:09:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:09:00 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:09:00 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:09:00 --> Total execution time: 0.0750
+DEBUG - 2017-03-25 13:09:04 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:09:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:09:04 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:09:04 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:09:04 --> Total execution time: 0.0710
+DEBUG - 2017-03-25 13:09:27 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:09:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:09:27 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:09:27 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:09:27 --> Total execution time: 0.0780
+DEBUG - 2017-03-25 13:21:30 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:21:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:21:30 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:21:31 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:21:31 --> Total execution time: 0.0990
+DEBUG - 2017-03-25 13:21:32 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:21:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:21:32 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:21:32 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:21:32 --> Total execution time: 0.1110
+DEBUG - 2017-03-25 13:22:59 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:22:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:22:59 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:22:59 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:22:59 --> Total execution time: 0.0880
+DEBUG - 2017-03-25 13:23:01 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:23:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:23:01 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:23:01 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:23:01 --> Total execution time: 0.0790
+DEBUG - 2017-03-25 13:28:54 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:28:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:28:54 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:28:54 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:28:54 --> Total execution time: 0.0840
+DEBUG - 2017-03-25 13:28:56 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:28:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:28:56 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:28:56 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:28:56 --> Total execution time: 0.0760
+DEBUG - 2017-03-25 13:29:21 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:29:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:29:21 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:29:21 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:29:21 --> Total execution time: 0.0860
+DEBUG - 2017-03-25 13:29:23 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:29:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:29:23 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:29:23 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:29:23 --> Total execution time: 0.0810
+DEBUG - 2017-03-25 13:30:22 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:30:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-03-25 13:30:22 --> 404 Page Not Found: Alumnos/getAlumno
+DEBUG - 2017-03-25 13:30:29 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:30:29 --> No URI present. Default controller set.
+DEBUG - 2017-03-25 13:30:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:30:29 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:30:30 --> Total execution time: 0.4120
+DEBUG - 2017-03-25 13:30:36 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:30:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:30:36 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:30:37 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:30:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:30:37 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:30:37 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-03-25 13:30:37 --> Could not find the language line "version"
+DEBUG - 2017-03-25 13:30:37 --> Total execution time: 0.2500
+DEBUG - 2017-03-25 13:30:39 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:30:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:30:39 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:30:39 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-03-25 13:30:39 --> Could not find the language line "version"
+DEBUG - 2017-03-25 13:30:39 --> Total execution time: 0.1460
+DEBUG - 2017-03-25 13:30:47 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:30:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-03-25 13:30:47 --> 404 Page Not Found: Alumnos/getAlumno
+DEBUG - 2017-03-25 13:30:49 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:30:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-03-25 13:30:49 --> 404 Page Not Found: Alumnos/getAlumno
+DEBUG - 2017-03-25 13:30:58 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:30:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:30:58 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:30:58 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:30:58 --> Total execution time: 0.0800
+DEBUG - 2017-03-25 13:32:33 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:32:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:32:33 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:32:33 --> Benchmark class already loaded. Second attempt ignored.
+ERROR - 2017-03-25 13:32:33 --> Severity: Notice --> Undefined property: Alumnos::$m_alumnos C:\xampp\htdocs\benbrisBack\application\controllers\Alumnos.php 113
+ERROR - 2017-03-25 13:32:34 --> Severity: Error --> Call to a member function getRegistros() on a non-object C:\xampp\htdocs\benbrisBack\application\controllers\Alumnos.php 113
+DEBUG - 2017-03-25 13:32:39 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:32:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:32:39 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:32:39 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:32:39 --> Total execution time: 0.0600
+DEBUG - 2017-03-25 13:32:53 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:32:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:32:53 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:32:53 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:32:53 --> Total execution time: 0.0860
+DEBUG - 2017-03-25 13:32:54 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:32:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:32:54 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:32:54 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:32:54 --> Total execution time: 0.1070
+DEBUG - 2017-03-25 13:33:02 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:33:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:33:02 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:33:02 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:33:02 --> Total execution time: 0.0720
+DEBUG - 2017-03-25 13:33:04 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:33:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:33:04 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:33:04 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:33:04 --> Total execution time: 0.0960
+DEBUG - 2017-03-25 13:33:17 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:33:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:33:17 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:33:17 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:33:17 --> Total execution time: 0.1120
+DEBUG - 2017-03-25 13:33:19 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:33:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:33:19 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:33:19 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:33:19 --> Total execution time: 0.0880
+DEBUG - 2017-03-25 13:34:09 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:34:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:34:09 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:34:09 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:34:09 --> Total execution time: 0.1030
+DEBUG - 2017-03-25 13:34:11 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:34:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:34:11 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:34:11 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:34:11 --> Total execution time: 0.0890
+DEBUG - 2017-03-25 13:34:43 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:34:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:34:43 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:34:43 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:34:43 --> Total execution time: 0.1010
+DEBUG - 2017-03-25 13:34:44 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:34:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:34:44 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:34:44 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:34:44 --> Total execution time: 0.0870
+DEBUG - 2017-03-25 13:45:20 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:45:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-03-25 13:45:20 --> Severity: Compile Error --> Cannot redeclare Alumnos::agregarAlumno() C:\xampp\htdocs\benbrisBack\application\controllers\Alumnos.php 132
+DEBUG - 2017-03-25 13:45:27 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:45:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-03-25 13:45:27 --> Severity: Compile Error --> Cannot redeclare Alumnos::agregarAlumno() C:\xampp\htdocs\benbrisBack\application\controllers\Alumnos.php 132
+DEBUG - 2017-03-25 13:45:58 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:45:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:45:58 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:45:58 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:45:58 --> Total execution time: 0.1210
+DEBUG - 2017-03-25 13:46:03 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:46:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:46:03 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:46:03 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:46:03 --> Total execution time: 0.1040
+DEBUG - 2017-03-25 13:46:11 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:46:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:46:11 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:46:12 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:46:12 --> Total execution time: 0.1040
+DEBUG - 2017-03-25 13:46:15 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:46:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:46:15 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:46:15 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:46:15 --> Total execution time: 0.0740
+DEBUG - 2017-03-25 13:46:17 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:46:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:46:17 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:46:17 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:46:17 --> Total execution time: 0.0990
+DEBUG - 2017-03-25 13:47:15 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:47:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:47:15 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:47:15 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:47:15 --> Total execution time: 0.1120
+DEBUG - 2017-03-25 13:47:16 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 13:47:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 13:47:16 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 13:47:16 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 13:47:16 --> Total execution time: 0.0800
+DEBUG - 2017-03-25 14:02:25 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:02:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:02:25 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:02:25 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:02:25 --> Total execution time: 0.0680
+DEBUG - 2017-03-25 14:02:31 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:02:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:02:31 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:02:31 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:02:31 --> Total execution time: 0.1000
+DEBUG - 2017-03-25 14:02:41 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:02:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:02:41 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:02:41 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:02:41 --> Total execution time: 0.1330
+DEBUG - 2017-03-25 14:02:43 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:02:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:02:43 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:02:43 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:02:43 --> Total execution time: 0.0790
+DEBUG - 2017-03-25 14:04:16 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:04:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:04:16 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:04:16 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:04:16 --> Total execution time: 0.1480
+DEBUG - 2017-03-25 14:04:19 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:04:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:04:19 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:04:19 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:04:19 --> Total execution time: 0.1020
+DEBUG - 2017-03-25 14:04:34 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:04:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:04:35 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:04:35 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:04:35 --> Total execution time: 0.0970
+DEBUG - 2017-03-25 14:05:18 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:05:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:05:18 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:05:18 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:05:18 --> Total execution time: 0.1060
+DEBUG - 2017-03-25 14:05:19 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:05:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:05:19 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:05:19 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:05:19 --> Total execution time: 0.0930
+DEBUG - 2017-03-25 14:06:11 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:06:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:06:11 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:06:11 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:06:11 --> Total execution time: 0.0800
+DEBUG - 2017-03-25 14:06:14 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:06:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:06:14 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:06:14 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:06:14 --> Total execution time: 0.0770
+DEBUG - 2017-03-25 14:07:01 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:07:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:07:01 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:07:01 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:07:01 --> Total execution time: 0.1290
+DEBUG - 2017-03-25 14:07:03 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:07:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:07:03 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:07:03 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:07:03 --> Total execution time: 0.0800
+DEBUG - 2017-03-25 14:07:30 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:07:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:07:30 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:07:30 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:07:30 --> Total execution time: 0.1000
+DEBUG - 2017-03-25 14:07:31 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:07:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:07:31 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:07:31 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:07:31 --> Total execution time: 0.0830
+DEBUG - 2017-03-25 14:07:38 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:07:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:07:38 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:07:38 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:07:38 --> Total execution time: 0.1010
+DEBUG - 2017-03-25 14:07:44 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:07:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:07:44 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:07:44 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:07:44 --> Total execution time: 0.0900
+DEBUG - 2017-03-25 14:08:30 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:08:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:08:30 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:08:30 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:08:30 --> Total execution time: 0.1120
+DEBUG - 2017-03-25 14:08:32 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:08:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:08:32 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:08:32 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:08:32 --> Total execution time: 0.0800
+DEBUG - 2017-03-25 14:08:39 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:08:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:08:39 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:08:39 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:08:40 --> Total execution time: 0.0840
+DEBUG - 2017-03-25 14:08:52 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:08:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:08:52 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:08:52 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:08:52 --> Total execution time: 0.0890
+DEBUG - 2017-03-25 14:08:54 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:08:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:08:54 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:08:54 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:08:54 --> Total execution time: 0.0920
+DEBUG - 2017-03-25 14:08:58 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:08:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-03-25 14:08:58 --> 404 Page Not Found: Alumnos/editarAlumnos
+DEBUG - 2017-03-25 14:09:18 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:09:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-03-25 14:09:18 --> 404 Page Not Found: Alumnos/editarAlumnos
+DEBUG - 2017-03-25 14:09:56 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:09:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:09:56 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:09:56 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:09:56 --> Total execution time: 0.0920
+DEBUG - 2017-03-25 14:09:57 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:09:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:09:57 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:09:57 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:09:57 --> Total execution time: 0.0850
+DEBUG - 2017-03-25 14:10:02 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:10:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:10:02 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:10:02 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:10:02 --> Total execution time: 0.3050
+DEBUG - 2017-03-25 14:10:07 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:10:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:10:07 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:10:07 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:10:07 --> Total execution time: 0.0900
+DEBUG - 2017-03-25 14:10:10 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:10:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:10:10 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:10:10 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:10:10 --> Total execution time: 0.0880
+DEBUG - 2017-03-25 14:10:14 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:10:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:10:14 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:10:14 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:10:14 --> Total execution time: 0.2340
+DEBUG - 2017-03-25 14:11:08 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:11:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:11:08 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:11:08 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:11:08 --> Total execution time: 0.0920
+DEBUG - 2017-03-25 14:11:09 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:11:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:11:09 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:11:09 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:11:09 --> Total execution time: 0.1040
+DEBUG - 2017-03-25 14:11:10 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:11:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:11:10 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:11:11 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:11:11 --> Total execution time: 0.1850
+DEBUG - 2017-03-25 14:11:12 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:11:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:11:12 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:11:12 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:11:12 --> Total execution time: 0.0960
+DEBUG - 2017-03-25 14:11:15 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:11:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:11:15 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:11:15 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:11:16 --> Total execution time: 0.1990
+DEBUG - 2017-03-25 14:11:21 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:11:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:11:21 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:11:21 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:11:21 --> Total execution time: 0.0910
+DEBUG - 2017-03-25 14:12:34 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:12:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:12:34 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:12:34 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:12:34 --> Total execution time: 0.0770
+DEBUG - 2017-03-25 14:12:35 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:12:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:12:35 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:12:35 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:12:35 --> Total execution time: 0.1080
+DEBUG - 2017-03-25 14:12:36 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:12:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:12:36 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:12:36 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:12:36 --> Total execution time: 0.2030
+DEBUG - 2017-03-25 14:12:37 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:12:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:12:37 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:12:37 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:12:37 --> Total execution time: 0.0720
+DEBUG - 2017-03-25 14:12:39 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:12:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:12:39 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:12:39 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:12:39 --> Total execution time: 0.1000
+DEBUG - 2017-03-25 14:12:42 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:12:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:12:42 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:12:42 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:12:42 --> Total execution time: 0.2120
+DEBUG - 2017-03-25 14:12:42 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:12:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:12:42 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:12:42 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:12:42 --> Total execution time: 0.0810
+DEBUG - 2017-03-25 14:19:30 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:19:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:19:31 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:19:31 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:19:31 --> Total execution time: 0.1220
+DEBUG - 2017-03-25 14:19:36 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:19:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:19:36 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:19:36 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:19:36 --> Total execution time: 0.0940
+DEBUG - 2017-03-25 14:19:39 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:19:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:19:39 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:19:39 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:19:39 --> Total execution time: 0.2340
+DEBUG - 2017-03-25 14:19:39 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:19:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:19:39 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:19:39 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:19:39 --> Total execution time: 0.0970
+DEBUG - 2017-03-25 14:19:41 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:19:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:19:41 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:19:41 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:19:41 --> Total execution time: 0.1080
+DEBUG - 2017-03-25 14:19:59 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:19:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:19:59 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:19:59 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:19:59 --> Total execution time: 0.0870
+DEBUG - 2017-03-25 14:20:27 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:20:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:20:27 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:20:27 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:20:27 --> Total execution time: 0.1060
+DEBUG - 2017-03-25 14:20:57 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:20:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:20:57 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:20:57 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:20:57 --> Total execution time: 0.0880
+DEBUG - 2017-03-25 14:21:00 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:21:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:21:00 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:21:00 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:21:00 --> Total execution time: 0.0820
+DEBUG - 2017-03-25 14:21:04 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:21:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:21:04 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:21:04 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:21:04 --> Total execution time: 0.1010
+DEBUG - 2017-03-25 14:21:28 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:21:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:21:28 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:21:28 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:21:28 --> Total execution time: 0.0680
+DEBUG - 2017-03-25 14:23:14 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:23:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:23:14 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:23:14 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:23:14 --> Total execution time: 0.0880
+DEBUG - 2017-03-25 14:23:16 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:23:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:23:16 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:23:16 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:23:16 --> Total execution time: 0.0870
+DEBUG - 2017-03-25 14:23:25 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:23:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:23:25 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:23:25 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:23:25 --> Total execution time: 0.0990
+DEBUG - 2017-03-25 14:24:56 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:24:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:24:56 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:24:56 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:24:56 --> Total execution time: 0.0840
+DEBUG - 2017-03-25 14:25:04 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:25:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:25:04 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:25:04 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:25:04 --> Total execution time: 0.0950
+DEBUG - 2017-03-25 14:26:18 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:26:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:26:18 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:26:18 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:26:18 --> Total execution time: 0.0750
+DEBUG - 2017-03-25 14:26:24 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:26:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:26:24 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:26:24 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:26:24 --> Total execution time: 0.0790
+DEBUG - 2017-03-25 14:27:20 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:27:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:27:20 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:27:20 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:27:20 --> Total execution time: 0.0670
+DEBUG - 2017-03-25 14:27:24 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:27:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:27:24 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:27:25 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:27:25 --> Total execution time: 0.1020
+DEBUG - 2017-03-25 14:28:28 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:28:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:28:28 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:28:28 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:28:28 --> Total execution time: 0.0820
+DEBUG - 2017-03-25 14:28:32 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:28:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:28:32 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:28:32 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:28:32 --> Total execution time: 0.0810
+DEBUG - 2017-03-25 14:29:23 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:29:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:29:23 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:29:23 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:29:23 --> Total execution time: 0.0870
+DEBUG - 2017-03-25 14:35:33 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:35:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:35:33 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:35:33 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:35:33 --> --------------------------- Login Usuario
+DEBUG - 2017-03-25 14:35:33 --> Perfil Profesor
+DEBUG - 2017-03-25 14:35:33 --> Login profesor Diego
+DEBUG - 2017-03-25 14:35:33 --> Total execution time: 0.0620
+DEBUG - 2017-03-25 14:35:36 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:35:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:35:36 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:35:36 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:35:36 --> Total execution time: 0.1010
+DEBUG - 2017-03-25 14:35:37 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:35:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:35:37 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:35:37 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:35:37 --> Total execution time: 0.1230
+DEBUG - 2017-03-25 14:35:40 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:35:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:35:40 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:35:40 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:35:40 --> Total execution time: 0.1040
+DEBUG - 2017-03-25 14:35:42 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:35:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:35:42 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:35:42 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:35:42 --> Total execution time: 0.1120
+DEBUG - 2017-03-25 14:36:02 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:36:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:36:02 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:36:02 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:36:02 --> Total execution time: 0.0820
+DEBUG - 2017-03-25 14:36:04 --> UTF-8 Support Enabled
+DEBUG - 2017-03-25 14:36:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-03-25 14:36:04 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-03-25 14:36:04 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-03-25 14:36:04 --> Total execution time: 0.0860

@@ -1,0 +1,8 @@
+DEBUG - 2017-02-28 12:41:53 --> UTF-8 Support Enabled
+DEBUG - 2017-02-28 12:41:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-02-28 12:41:54 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-02-28 12:41:55 --> Benchmark class already loaded. Second attempt ignored.
+DEBUG - 2017-02-28 12:41:56 --> UTF-8 Support Enabled
+DEBUG - 2017-02-28 12:41:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-02-28 12:41:57 --> Config file loaded: C:\xampp\htdocs\benbrisBack\application\config/my_config.php
+DEBUG - 2017-02-28 12:41:57 --> Total execution time: 0.6880
